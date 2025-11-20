@@ -1,0 +1,14 @@
+C:\Users\dhama\source\repos\week4\week4\bin\Debug\net8.0\week4.exe
+C:\Users\dhama\source\repos\week4\week4\bin\Debug\net8.0\week4.deps.json
+C:\Users\dhama\source\repos\week4\week4\bin\Debug\net8.0\week4.runtimeconfig.json
+C:\Users\dhama\source\repos\week4\week4\bin\Debug\net8.0\week4.dll
+C:\Users\dhama\source\repos\week4\week4\bin\Debug\net8.0\week4.pdb
+C:\Users\dhama\source\repos\week4\week4\obj\Debug\net8.0\week4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhama\source\repos\week4\week4\obj\Debug\net8.0\week4.AssemblyInfoInputs.cache
+C:\Users\dhama\source\repos\week4\week4\obj\Debug\net8.0\week4.AssemblyInfo.cs
+C:\Users\dhama\source\repos\week4\week4\obj\Debug\net8.0\week4.csproj.CoreCompileInputs.cache
+C:\Users\dhama\source\repos\week4\week4\obj\Debug\net8.0\week4.dll
+C:\Users\dhama\source\repos\week4\week4\obj\Debug\net8.0\refint\week4.dll
+C:\Users\dhama\source\repos\week4\week4\obj\Debug\net8.0\week4.pdb
+C:\Users\dhama\source\repos\week4\week4\obj\Debug\net8.0\week4.genruntimeconfig.cache
+C:\Users\dhama\source\repos\week4\week4\obj\Debug\net8.0\ref\week4.dll
